@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T19:43:51.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="whrm34PFCo8g5mmwDLMm" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T20:19:18.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="rHP_oEaSfIHVyZHmhUZG" version="18.1.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3445" dy="2458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -309,8 +309,14 @@
             <mxPoint x="1070" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-V91luH7FTuImWQMiuqp-112" value="&lt;font style=&quot;font-size: 44px;&quot;&gt;Movie Booking System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontSize=44;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="-140" width="445" height="30" as="geometry" />
+        <mxCell id="-V91luH7FTuImWQMiuqp-112" value="&lt;font style=&quot;font-size: 44px;&quot;&gt;Movie Booking System&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Ubuntu;fontSize=44;fontStyle=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="-140" width="445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V91luH7FTuImWQMiuqp-114" value="Team Members&lt;br style=&quot;font-size: 17px;&quot;&gt;TG Ashwin Kumar&lt;br style=&quot;font-size: 17px;&quot;&gt;R A Sashti Amar&lt;br style=&quot;font-size: 17px;&quot;&gt;Suvan Sathyendira&lt;br style=&quot;font-size: 17px;&quot;&gt;Shrivignesh" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="982.5" y="770" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-V91luH7FTuImWQMiuqp-116" value="" style="swimlane;startSize=0;fontFamily=Courier New;fontSize=17;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="710" width="215" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
